@@ -17,4 +17,4 @@ lat1 = 5
 lon2 = -5
 lat2 = 3
 
-print("Jarak antara Ulfi ke Aris yaitu",haversine(lat1, lon1, lat2, lon2))
+print("Jarak antara bu Ulfi ke pak Aris yaitu",haversine(lat1, lon1, lat2, lon2))
